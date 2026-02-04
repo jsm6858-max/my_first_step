@@ -9,4 +9,4 @@ while i<=n:
     
 print(f"{n}의 약수는 총 {count}개 입니다")
 
-print("나는 아무것도 안할거여")
+
